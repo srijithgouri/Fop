@@ -7,7 +7,7 @@ public class Area_Of_Circle {
 	}
 	public static String get_Area(float R) {
 		float area=3.14f*R*R;
-		return "The Area is: "+area;
+		return "The Area is : "+area;
 	}
 
 }
